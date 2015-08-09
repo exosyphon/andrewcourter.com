@@ -130,6 +130,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (= 39)
   jekyll (= 2.4.0)
+  json
   liquid
